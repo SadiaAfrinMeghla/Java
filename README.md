@@ -6,6 +6,23 @@
 ### Why Java?
 This repository contains a series of Java programming exercises carefully selected to enhance expertise in SQA automation.
 
-The tool I used 
+## Programs Completed by Sadia Afrin Meghla
+| Sl_No | Project_Name |
+|---|---|
+|1|Factorial|
+|2|Factorial2|
+|3|PrimeNumber|
+|4|printEvenNumber|
+|5|printNumbers|
+|6|printOddNumbers|
+|7|RandomNumberGame|
+|8|ReverseNumber|
+|9|scanner|
+|10|SumDivisibleBy5|
+|11|BinarySearch|
+|12|SortNumbersFromArray|
+|13|SwapNumbers|
 
->Happy coding!
+
+
+
