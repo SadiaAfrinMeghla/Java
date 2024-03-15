@@ -1,7 +1,7 @@
 # Java Practice Problems for Automation Software Quality Analysts (SQA)
 
 ## Welcome to essential Java practice problems for SQAs in automation, crafted to enhance testing skills crucial for modern software development.
- 
+ ![Logo](https://prnt.sc/EywVkaJu8k0n.png)
 ### Why Java?
 Java is vital for SQA automation, enabling the creation of efficient tests with its platform independence and strong community support.
 
